@@ -54,7 +54,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "My final project is on "Cancer around the globe". I will be exploring the disparities in treatment availability, frequency of cancer, and mortality rates from different geographical regions.",
+    description: "My final project is on Cancer around the globe. I will be exploring the disparities in treatment availability, frequency of cancer, and mortality rates from different geographical regions.",
     url: ""
   },
 
