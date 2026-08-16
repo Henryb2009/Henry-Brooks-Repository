@@ -63,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "My final project is on Cancer around the globe. I will be exploring the disparities in treatment availability, frequency of cancer, and mortality rates from different geographical regions.",
-    url: ""
+    url: "https://docs.google.com/presentation/d/1PE1aGsEqLTUGby1UQz10Sm3ffzc9M3CkG0qlWIIaf2E/edit?slide=id.p#slide=id.p"
   },
 
   /*
@@ -73,7 +73,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/Henryb2009"
     }
   ]
 };
