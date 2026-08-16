@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "Email- Henrymartinbrooks@outlook.com, Phone number available upon request",
 
   /*
   RPubs activities:
